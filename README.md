@@ -10,9 +10,9 @@ ITA: https://drive.massgrave.dev/it-it_windows_server_2025_x64_dvd_98437899.iso
 
 Windows Server 2022
 
-ENG: https://drive.massgrave.dev/en-us_windows_server_2022_updated_june_2024_x64_dvd_8c5a802d.iso
+ENG: https://drive.massgrave.dev/en-us_windows_server_2022_updated_oct_2024_x64_dvd_d1a47ecc.iso
 
-ITA: https://drive.massgrave.dev/it-it_windows_server_2022_updated_june_2024_x64_dvd_8c5a802d.iso
+ITA: https://drive.massgrave.dev/it-it_windows_server_2022_updated_oct_2024_x64_dvd_d1a47ecc.iso
 
 Windows Server 2019
 
