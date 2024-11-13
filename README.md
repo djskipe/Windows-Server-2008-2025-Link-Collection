@@ -1,12 +1,12 @@
 # Windows-Server-2008-2025-Link-Collection
-Windows Server 2008-2025 Link Collection
+Windows Server 2008-2025 Link Collection ITA-ENG
 
 
-Windows Server 2025 Preview
+Windows Server 2025 
 
-ENG: https://drive.massgrave.dev/en-us_windows_server_2025_preview_x64_dvd_ce9eb1a5.iso
+ENG: https://drive.massgrave.dev/en-us_windows_server_2025_x64_dvd_b7ec10f3.iso
 
-ITA: https://drive.massgrave.dev/it-it_windows_server_2025_preview_x64_dvd_eaccac73.iso
+ITA: https://drive.massgrave.dev/it-it_windows_server_2025_x64_dvd_98437899.iso
 
 Windows Server 2022
 
